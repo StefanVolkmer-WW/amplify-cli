@@ -21,6 +21,7 @@
   "cloudfront",
   "codegen",
   "codepipeline",
+  "columnify",
   "cognito",
   "cors",
   "creds",
